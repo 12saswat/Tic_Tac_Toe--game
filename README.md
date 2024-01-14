@@ -1,5 +1,5 @@
 # Tic_Tac_Toe--game
-amazing-entremet-589978.netlify.app
+https://amazing-entremet-589978.netlify.app
 
 This is game project
 #output
